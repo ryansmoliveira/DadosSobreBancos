@@ -1,6 +1,7 @@
 # DadosSobreBancos
 
 Objetivos:
+
 -Avaliar a concentração das operações entre conglomerados financeiros.
 
 -Identificar quais estados concentraram maior volume renegociado.
@@ -83,13 +84,12 @@ São Paulo lidera amplamente o volume renegociado.
 O ticket médio foi calculado pela fórmula:
 
 Ticket Medio = Volume Total/Número de Operações
-	​
-
 
 A análise foi realizada tanto para:
 
-Bancos;
-Estados.
+-Bancos;
+
+-Estados.
 
 Estados como Tocantins, Santa Catarina e São Paulo apresentaram alguns dos maiores tickets médios observados.
 
@@ -116,7 +116,7 @@ Conclusões:
 
 6. Detecção de Outliers
 
-Foi utilizado o método IQR (Intervalo Interquartil) para identificar instituições com comportamento excepcional.
+-Foi utilizado o método IQR (Intervalo Interquartil) para identificar instituições com comportamento excepcional.
 
 Resultado:
 
@@ -128,7 +128,7 @@ Resultado:
 
 Foi construída uma série temporal do volume renegociado.
 
--Principais observações
+Principais observações:
 
 -Pico inicial em setembro de 2023.
 
@@ -150,7 +150,7 @@ O projeto inclui:
 
 -Histograma da distribuição dos volumes estaduais.
 
--Principais Conclusões
+Principais Conclusões:
 
 -O mercado de renegociação do Desenrola Brasil apresentou forte concentração bancária.
 
