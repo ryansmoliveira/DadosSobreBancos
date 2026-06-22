@@ -73,9 +73,9 @@ Principal resultado:
 
 Os estados do Sudeste apresentaram maior participação:
 
-São Paulo
-Rio de Janeiro
-Minas Gerais
+São Paulo,
+Rio de Janeiro,
+Minas Gerais,
 
 São Paulo lidera amplamente o volume renegociado.
 
